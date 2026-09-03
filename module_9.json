@@ -1,0 +1,15 @@
+{
+  "name": "arc-pulse-3961",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 7250,
+    "createdAt": "2026-09-03T12:27:15.808Z"
+  }
+}
